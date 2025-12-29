@@ -20,6 +20,7 @@ I'm into native, modern, non-conservative software development
 - YAML
 - JSON
 ## Miscellaneous
+- Regex
 - GNU/Linux
 
 # 📊 GitHub Stats:
