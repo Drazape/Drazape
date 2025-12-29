@@ -19,8 +19,10 @@ I'm into native, modern, non-conservative software development
 - [TOML](https://toml.io/en/ "A config file format for humans")
 - YAML
 - JSON
-## Miscellaneous
+## String matching
 - Regex
+  - [Pomsky](https://pomsky-lang.org "Next Level Regular Expressions")
+## Miscellaneous
 - GNU/Linux
 
 # 📊 GitHub Stats:
