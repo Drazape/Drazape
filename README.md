@@ -6,15 +6,20 @@ I'm into native, modern, non-conservative software development
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/847672200139243540) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Dracape) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Dracape@outlook.com) 
 
 # 💻 Tech Stack:
-### Version Control Systems (VCS)
+## Version Control Systems (VCS)
 - [Jujutsu](https://www.jj-vcs.dev "Modern VCS")
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     - ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-### Shell Languages
+## Languages
+### Shell
 - [Fish](https://fishshell.com/ "smart and User-friendly shell")
 - ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-### Miscellaneous
+### Configuration
+- [TOML](https://toml.io/en/ "A config file format for humans")
+- YAML
+- JSON
+## Miscellaneous
 - GNU/Linux
 
 # 📊 GitHub Stats:
