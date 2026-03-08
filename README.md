@@ -14,16 +14,12 @@ I'm into native, modern, non-conservative software development
 ## Languages
 ### Shell
 - [Fish](https://fishshell.com/ "smart and User-friendly shell")
-- ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-### Configuration
-- [TOML](https://toml.io/en/ "A config file format for humans")
-- YAML
-- JSON
 ## String matching
 - Regex
   - [Pomsky](https://pomsky-lang.org "Next Level Regular Expressions")
-## Miscellaneous
+## Operating System
 - GNU/Linux
+- Nix (OS/package manager/language)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dracape&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
