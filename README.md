@@ -11,8 +11,7 @@ I'm into native, modern, non-conservative software development
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     - ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-## Languages
-### Shell
+## Shell
 - [Fish](https://fishshell.com/ "smart and User-friendly shell")
 ## String matching
 - Regex
