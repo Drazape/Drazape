@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm into native, modern, non-conservative software development
+I'm into native & modern software development that resists inertia, and doesn't let familiar legacy software get in the way of change.
 
 
 ## 🌐 Socials:
@@ -7,15 +7,9 @@ I'm into native, modern, non-conservative software development
 
 # 💻 Tech Stack:
 ## Version Control Systems (VCS)
-- [Jujutsu](https://www.jj-vcs.dev "Modern VCS")
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    - ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+[Jujutsu](https://www.jj-vcs.dev "Modern VCS")
 ## Shell
-- [Fish](https://fishshell.com/ "smart and User-friendly shell")
-## String matching
-- Regex
-  - [Pomsky](https://pomsky-lang.org "Next Level Regular Expressions")
+[Fish](https://fishshell.com/ "smart and User-friendly shell")
 ## Operating System
 - GNU/Linux
 - Nix (OS/package manager/language)
