@@ -5,7 +5,7 @@ The following are my preferred domains:
 - Native software development
 - user-experience (UX) design.
 ## Preference
-I align with forward-thinking software that urges its users to resist inertia.
+I align with forward-thinking software that urges its users to resist inertia.  
 Likewise, I avoid legacy alternatives being used for the sake of familiarity.
 
 
